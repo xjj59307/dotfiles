@@ -1,0 +1,560 @@
+{
+	"folder_history":
+	[
+		"/Users/junjianxu/Dropbox/projects/visualjs",
+		"/Users/junjianxu/Dropbox/projects/visualjs/visualization",
+		"/Users/junjianxu/Dropbox/projects/live-edit",
+		"/Users/junjianxu/Downloads",
+		"/Users/junjianxu/Dropbox/projects/visualjs/debugger",
+		"/Users/junjianxu/Dropbox/projects/archive/javascript"
+	],
+	"last_window_id": 28,
+	"settings":
+	{
+		"new_window_height": 638.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"dia",
+						"diagonal()  (namespace)"
+					],
+					[
+						"ig",
+						"ignored_packages"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 127.0,
+				"selected_items":
+				[
+					[
+						"stinguser",
+						"Preferences: Settings - User"
+					],
+					[
+						"settingde",
+						"Preferences: Settings - Default"
+					],
+					[
+						"pcin",
+						"Package Control: Install Package"
+					],
+					[
+						"pcls",
+						"Package Control: List Packages"
+					],
+					[
+						"ain",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: li",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 593.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/junjianxu/Dropbox/projects/visualjs/visualization/d3.js",
+				"/Users/junjianxu/Dropbox/projects/visualjs/visualization/script/tree.js",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/junjianxu/Dropbox/projects/visualjs/visualization/d3.html",
+				"/Users/junjianxu/Dropbox/projects/live-edit/extension/style.css",
+				"/Users/junjianxu/Dropbox/projects/visualjs/debugger/debugger.sublime-workspace",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/JsFormat/Default (OSX).sublime-keymap",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/JsFormat/JsFormat.sublime-settings",
+				"/Users/junjianxu/Dropbox/projects/visualjs/debugger/manifest.json",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Default (OSX).sublime-keymap",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-mousemap",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Default (OSX).sublime-mousemap",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+				"/Users/junjianxu/Dropbox/projects/visualjs/debugger/console.js",
+				"/Users/junjianxu/Dropbox/projects/visualjs/debugger/console.html",
+				"/Applications/TextMate.app/Contents/MacOS/TextMate"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"function",
+					"	.",
+					"console",
+					"    ",
+					"\n      ",
+					"=",
+					"= ",
+					" =",
+					"console",
+					"    ",
+					"commandHandle",
+					" +",
+					"console",
+					"double",
+					"console",
+					"2007",
+					"3342 3032",
+					"3342"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"  ",
+					"3242 3032"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"d3ht",
+						"d3.html"
+					],
+					[
+						"console",
+						"extension/content-script/console.js"
+					],
+					[
+						"conjs",
+						"console.js"
+					],
+					[
+						"ns",
+						"main.js"
+					],
+					[
+						"consolejs",
+						"console.js"
+					],
+					[
+						"js",
+						"background.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 178.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 960.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"dia",
+						"diagonal()  (namespace)"
+					],
+					[
+						"ig",
+						"ignored_packages"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/junjianxu/Dropbox/projects/visualjs/visualization/script/d3.js",
+					"settings":
+					{
+						"buffer_size": 1098,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/junjianxu/Dropbox/projects/visualjs/visualization/script/tree.js",
+					"settings":
+					{
+						"buffer_size": 502,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 47.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"stinguser",
+						"Preferences: Settings - User"
+					],
+					[
+						"settingde",
+						"Preferences: Settings - Default"
+					],
+					[
+						"pcin",
+						"Package Control: Install Package"
+					],
+					[
+						"pcls",
+						"Package Control: List Packages"
+					],
+					[
+						"ain",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: li",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 602.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/junjianxu/Dropbox/projects/visualjs/visualization/d3.js",
+				"/Users/junjianxu/Dropbox/projects/visualjs/visualization/script/tree.js",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/junjianxu/Dropbox/projects/visualjs/visualization/d3.html",
+				"/Users/junjianxu/Dropbox/projects/live-edit/extension/style.css",
+				"/Users/junjianxu/Dropbox/projects/visualjs/debugger/debugger.sublime-workspace",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/JsFormat/Default (OSX).sublime-keymap",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/JsFormat/JsFormat.sublime-settings",
+				"/Users/junjianxu/Dropbox/projects/visualjs/debugger/manifest.json",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Default (OSX).sublime-keymap",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-mousemap",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Default (OSX).sublime-mousemap",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+				"/Users/junjianxu/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+				"/Users/junjianxu/Dropbox/projects/visualjs/debugger/console.js",
+				"/Users/junjianxu/Dropbox/projects/visualjs/debugger/console.html",
+				"/Applications/TextMate.app/Contents/MacOS/TextMate"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"function",
+					"	.",
+					"console",
+					"    ",
+					"\n      ",
+					"=",
+					"= ",
+					" =",
+					"console",
+					"    ",
+					"commandHandle",
+					" +",
+					"console",
+					"double",
+					"console",
+					"2007",
+					"3342 3032",
+					"3342"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"  ",
+					"3242 3032"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/junjianxu/Dropbox/projects/visualjs"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/junjianxu/Dropbox/projects/visualjs/visualization/script/d3.js",
+							"settings":
+							{
+								"buffer_size": 1098,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/junjianxu/Dropbox/projects/visualjs/visualization/script/tree.js",
+							"settings":
+							{
+								"buffer_size": 502,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										96,
+										96
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "160 109 960 660 0 0 1280 778 ",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"d3ht",
+						"d3.html"
+					],
+					[
+						"console",
+						"extension/content-script/console.js"
+					],
+					[
+						"conjs",
+						"console.js"
+					],
+					[
+						"ns",
+						"main.js"
+					],
+					[
+						"consolejs",
+						"console.js"
+					],
+					[
+						"js",
+						"background.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 178.0,
+			"status_bar_visible": true,
+			"window_id": 28,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/junjianxu/Dropbox/projects/visualjs/debugger/debugger.sublime-project"
+		]
+	}
+}
