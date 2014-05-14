@@ -7,8 +7,10 @@ alias zshconfig="vim ~/.zshrc"
 alias vimconfig="vim ~/.vimrc"
 alias vim="/Applications/MacVim.app/Contents/MacOS/Vim"
 alias vi="/Applications/MacVim.app/Contents/MacOS/Vim"
+alias node="node -harmony"
 alias node-debug="node --debug=5858"
 alias node-debug-brk="node --debug-brk=5858"
+alias py="python"
 alias pegjs="~/Dropbox/projects/pegjs/bin/pegjs"
 alias t='todo.sh'
 
