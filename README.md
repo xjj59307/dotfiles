@@ -5,4 +5,6 @@
 - [jq](https://github.com/stedolan/jq)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
 - [nestor](https://github.com/cliffano/nestor)
+- [docker-alias](https://github.com/tcnksm/docker-alia://github.com/tcnksm/docker-alias)
+- [fd](https://github.com/sharkdp/fd)
 
