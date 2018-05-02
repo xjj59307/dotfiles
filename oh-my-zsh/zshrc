@@ -20,6 +20,7 @@ export PATH="${HOME}/byobu/bin:${PATH}"
 export PATH="${HOME}/Software/dasht-2.2.0/bin:${PATH}"
 export PATH="${JAVA_HOME}/bin:${PATH}"
 export PATH="${GOPATH}/bin:${PATH}"
+export PATH="${HOME}/Software/idea-IC-181.4203.550/bin:${PATH}"
 
 alias configvim="vim ~/.vimrc"
 alias configzsh="vim ~/.zshrc"
@@ -31,7 +32,7 @@ alias ch="~/Documents/ch.sh"
 alias bm="~/Documents/bm.sh"
 alias snip="cat ~/Documents/snippets.txt | fzf | tr -d '\n' | clipcopy"
 alias todo="code ~/Documents/aiden.todo"
-alias {vim,vi}="nvim"
+alias vim="nvim"
 
 plugins=(git zsh-syntax-highlighting clipboard vagrant mvn fasd docker docker-alias fzf)
 

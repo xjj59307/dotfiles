@@ -16,8 +16,9 @@ font pango: M+ 1m, 10
 floating_modifier $mod
 
 bindsym $mod+Return exec --no-startup-id konsole
-bindsym $mod+Shift+q kill
 bindsym $mod+d exec --no-startup-id rofi -show run
+bindsym $mod+Shift+s exec i3lock
+bindsym $mod+Shift+q kill
 
 # change focus
 bindsym $mod+j focus left
