@@ -1,6 +1,7 @@
 # tools
 
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [fasd](https://github.com/clvv/fasd)
 - [fzf](https://github.com/junegunn/fzf)
 - [jq](https://github.com/stedolan/jq)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
