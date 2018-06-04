@@ -1,6 +1,7 @@
 # tools
 
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [ag](https://github.com/ggreer/the_silver_searcher)
 - [fasd](https://github.com/clvv/fasd)
 - [fzf](https://github.com/junegunn/fzf)
 - [jq](https://github.com/stedolan/jq)
