@@ -1,19 +1,15 @@
 " vim: set foldmarker={{{,}}} foldlevel=0 foldmethod=marker spell:
 
 call plug#begin('~/.vim/plugged')
-Plug 'jeffkreeftmeijer/vim-numbertoggle'
-Plug 'joshdick/onedark.vim'
-Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
-Plug 'junegunn/fzf.vim'
-Plug 'w0rp/ale'
-Plug 'mhinz/vim-startify'
-Plug 'vim-ruby/vim-ruby'
 Plug 'tomtom/tcomment_vim'
 Plug 'easymotion/vim-easymotion'
-Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
 Plug 'sheerun/vim-polyglot'
 Plug 'tpope/vim-surround'
 Plug 'alvan/vim-closetag'
+Plug 'Townk/vim-autoclose'
+Plug 'nathanaelkane/vim-indent-guides'
+Plug 'mhinz/vim-startify'
+Plug 'joshdick/onedark.vim'
 call plug#end()
 
 " general {{{
@@ -29,13 +25,12 @@ let mapleader=","
 let g:mapleader=","
 " fast saving
 nmap <leader>w :w!<cr>
-set clipboard=unnamedplus
+set clipboard=unnamed
 " }}}
 
 " interface {{{
 " set 7 lines to the cursor - when moving vertically using j/k
 set so=10
-set colorcolumn=100
 set ruler
 " show matching brackets when text indicator is over them
 set showmatch
@@ -54,9 +49,11 @@ set magic
 
 " appearance {{{
 syntax on
-set termguicolors
 colorscheme onedark
-set guifont=Go\ Mono:h13
+" Enable true color inside tmux
+set termguicolors
+let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
+let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
 set encoding=utf8
 set number
 set laststatus=2
@@ -69,21 +66,17 @@ set shiftwidth=4
 set expandtab
 set smarttab
 set autoindent
-" }}}
-
-" nerdtree {{{
-nnoremap <silent> <Leader>n :NERDTreeToggle<CR>
-" }}}
-
-" ale {{{
-let g:ale_lint_on_text_changed = 'never'
-" }}}
-
-" fzf {{{
-nnoremap <silent> <Leader>f :Files<CR>
-nnoremap <silent> <Leader>b :Buffers<CR>
+" make the backspace work like in most other programs
+set backspace=indent,eol,start
 " }}}
 
 " vim-closetag {{{
 let g:closetag_filenames = '*.html,*.xhtml,*.xml'
 " }}}
+
+" vim-indent-guides {{{
+let g:indent_guides_enable_on_vim_startup = 1
+let g:indent_guides_start_level = 2
+let g:indent_guides_guide_size = 1
+" }}}
+
