@@ -10,4 +10,5 @@
 - [docker-alias](https://github.com/tcnksm/docker-alia://github.com/tcnksm/docker-alias)
 - [fd](https://github.com/sharkdp/fd)
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
+- [sdkman](https://sdkman.io)
 
