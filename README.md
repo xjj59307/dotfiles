@@ -11,4 +11,5 @@
 - [fd](https://github.com/sharkdp/fd)
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
 - [sdkman](https://sdkman.io)
+- [mitmproxy](https://mitmproxy.org)
 
