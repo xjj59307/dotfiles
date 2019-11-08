@@ -13,4 +13,5 @@
 - [sdkman](https://sdkman.io)
 - [mitmproxy](https://mitmproxy.org)
 - [chunkwm](https://koekeishiya.github.io/chunkwm/docs/userguide.html)
+- [hub](https://hub.github.com)
 
