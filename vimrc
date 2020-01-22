@@ -9,7 +9,9 @@ Plug 'alvan/vim-closetag'
 Plug 'Townk/vim-autoclose'
 Plug 'nathanaelkane/vim-indent-guides'
 Plug 'mhinz/vim-startify'
-Plug 'joshdick/onedark.vim'
+Plug 'SirVer/ultisnips'
+Plug 'honza/vim-snippets'
+Plug 'altercation/vim-colors-solarized'
 call plug#end()
 
 " general {{{
@@ -30,7 +32,7 @@ set clipboard=unnamed
 
 " interface {{{
 " set 7 lines to the cursor - when moving vertically using j/k
-set so=10
+set so=7
 set ruler
 " show matching brackets when text indicator is over them
 set showmatch
@@ -45,29 +47,31 @@ set incsearch
 map <silent> <leader><cr> :noh<cr>
 " for regular expression turn magic on
 set magic
+" make the backspace work like in most other programs
+set backspace=indent,eol,start
 " }}}
 
 " appearance {{{
 syntax on
-colorscheme onedark
-" Enable true color inside tmux
-set termguicolors
-let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
-let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
+colorscheme solarized
+set background=dark
+if has("gui_running")
+  set guifont=Consolas:h10
+endif
 set encoding=utf8
 set number
 set laststatus=2
 " }}}
 
 " format {{{
-set tabstop=4
-set softtabstop=4
-set shiftwidth=4
 set expandtab
 set smarttab
 set autoindent
-" make the backspace work like in most other programs
-set backspace=indent,eol,start
+set smartindent
+set wrap
+
+set shiftwidth=2
+set tabstop=2
 " }}}
 
 " vim-closetag {{{
@@ -75,8 +79,12 @@ let g:closetag_filenames = '*.html,*.xhtml,*.xml'
 " }}}
 
 " vim-indent-guides {{{
-let g:indent_guides_enable_on_vim_startup = 1
 let g:indent_guides_start_level = 2
 let g:indent_guides_guide_size = 1
+let g:indent_guides_enable_on_vim_startup = 1
+" }}}
+
+" ultisnips {{{
+let g:UltiSnipsExpandTrigger="<tab>"
 " }}}
 
